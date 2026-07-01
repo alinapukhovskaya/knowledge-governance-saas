@@ -11,7 +11,7 @@ An AI assistant can only resolve what is properly documented. When internal know
 
 ## Client
 
-A Canadian SaaS company in the technology sector. The organization had more than doubled its employee count in 18 months (current headcount 2500), with offices across North America, Europe, and Asia-Pacific. Internal IT services supported the full employee base through a Confluence-based knowledge environment and an AI-powered assistant integrated with Slack.
+A Canadian SaaS company in the technology sector. The organization had more than doubled its employee count in 18 months, with global offices. Internal IT services supported the full employee base through a Confluence-based knowledge environment and an AI-powered assistant integrated with Slack.
 
 ## Challenge
 
@@ -32,7 +32,7 @@ These gaps formed a reinforcing cycle and directly impacted three operational ar
 
 ### Discovery
 
-The assessment drew on stakeholder conversations across multiple functions (IT operations, learning and development, compliance, engineering leadership) and technical analysis of the knowledge platform configuration, including AI assistant integration mechanics and content ingestion requirements.
+The assessment drew on stakeholder conversations across multiple functions and technical analysis of the knowledge platform configuration, including AI assistant integration mechanics and content ingestion requirements.
 
 ### Diagnostic Framework
 
