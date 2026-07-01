@@ -11,7 +11,7 @@ An AI assistant can only resolve what is properly documented. When internal know
 
 ## Client
 
-A Canadian SaaS company in the technology sector. The organization had more than doubled its employee count in 18 months, with global offices. Internal IT services supported the full employee base through a Confluence-based knowledge environment and an AI-powered assistant integrated with Slack.
+A Canadian SaaS company in the technology sector. The organization had more than doubled its employee count in 18 months and has global offices. Internal IT services supported the full employee base through a Confluence-based knowledge environment and an AI-powered assistant integrated with Slack.
 
 ## Challenge
 
